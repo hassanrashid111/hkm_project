@@ -1,0 +1,54 @@
+.signup-container{
+    width: 400px;
+    height: 540px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.35);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    color: #fff;
+    text-align: center;
+    box-shadow: 0 0 25px rgba(0, 255, 140, 0.30);
+}
+.signup-form input[type="text"],
+.signup-form input[type="email"],
+.signup-form input[type="password"] {
+    width: 75%;
+    height: 40px;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    box-shadow: 0 0 25px rgba(0, 255, 140, 0.30);
+    
+}
+.signup-form button {
+    width: 80%;
+    height: 45px;
+    background-color: #00ff8c;
+    border: none;
+    border-radius: 10px;
+    color: #000000;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+    box-shadow: 0 0 25px rgba(0, 255, 140, 0.30);
+}
+
+snap{
+    color: #64ffda;
+}
+.gender-options {
+    margin: 10px 0;
+    text-align: center;
+}
+.gender-options label {
+    margin: 0 10px;
+    font-size: 16px;
+}
+.dateofbirth{
+    margin-top: 10px;
+    font-size: 16px;
+}

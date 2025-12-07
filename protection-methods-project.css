@@ -1,0 +1,51 @@
+.Protection-Methods {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+span{
+    color: #64ffda;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    color: #ffffff;
+}
+h2 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: inline-block;
+}
+
+p {
+    color: #8892b0;
+    text-align: center;
+    display: inline-block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.body{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(17, 34, 64, 0.8);
+    border-radius: 20px;
+    
+}
+.Emoji{
+    font-size: 50px;
+    text-align: left;
+    display: inline-block;
+    padding-bottom: 10px;
+    margin-right: 20px;
+}
+.Protect{
+    font-size: 40px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.especially-P {
+    color: #8892b0;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

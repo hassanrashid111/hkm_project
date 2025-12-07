@@ -1,0 +1,43 @@
+html{
+    background-color: #0a192f;
+}
+
+.Logo{
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+samp{
+    color: #64ffda;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.links li button{
+    display: inline-block;
+    color: #b4ccc6;
+    font-size: 16px;
+    background-color: #0a192f;
+    border: none;
+    cursor: pointer;
+
+}
+
+.links {
+    list-style: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    float: right;
+    display: flex;
+    gap: 20px;
+
+}
+header{
+    background-color: #0a192f;
+    padding: 10px;
+    border-bottom: 2px solid #8892b0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

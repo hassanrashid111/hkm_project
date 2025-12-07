@@ -1,0 +1,66 @@
+span{
+    color: #64ffda;
+
+}
+.section-header {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.especially-P {
+    color: #8892b0;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card {
+    width: 32.5%;
+    display: inline-block;
+    background-color: #112240;
+    border-radius: 8px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 20px ;
+}
+.card img { 
+    width: 100%;
+    height: 350px;      
+    object-fit: cover;
+}
+p {
+    color: #8892b0;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    text-align: center;
+}
+h3 {
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color:transparent;
+    color: #64ffda;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: #64ffda solid;
+    border-radius: 30px;
+} 
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Attack-Methods{
+    text-align: center;
+}
