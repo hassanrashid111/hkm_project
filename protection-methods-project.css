@@ -24,8 +24,9 @@ p {
     
 }
 .body{
-    margin-left: 400px;
-    margin-right: 400px;
+    width: 60%;         
+    max-width: 800px;   
+    margin: 20px auto;
     margin-top: 20px;
     padding: 10px;
     background-color: rgb(17, 34, 64, 0.8);
